@@ -1,7 +1,7 @@
-<img src="https://telegra.ph/file/e01b2016af8ab7b7616dc.png" alt="logo" target="/blank">
+<img src="https://telegra.ph/file/eb80582fa42f9bd412085.jpg" alt="logo" target="/blank">
 
 <h1 align="center">
- <b><a href="https://telegram.me/LazyDeveloper" target="/blank"> Gangster Baby ( Renamer BOT ) </a></>
+ <b><a href="https://t.me/GwitcherG" target="/blank"> Gangster Baby ( Renamer BOT ) </a></>
 </h1>
 
 <p align="center">🤍 Thanks for Being Here 🤍</p>
@@ -19,7 +19,7 @@
 
 * `DB_URL`  - Mongo Database URL from https://cloud.mongodb.com/
 
-* `DB_NAME`  - Your database name from mongoDB. Default will be 'my'
+* `DB_NAME`  - Your database name from mongoDB. Default will be 'Cluster0'
 
 * `FORCE_SUB` - your force sub channel username without @ 
 
@@ -31,7 +31,7 @@
 <details><summary>🔥 Deploy To Koyeb 🔥</summary>
 <p>
 <br>                 
-<a target="/blank" href="https://app.koyeb.com/deploy?type=git&repository=github.com/LazyDeveloperr/Gangster-Baby-Renamer-BOT&branch=main&name=lazy-gangster-baby" >
+<a target="/blank" href="https://app.koyeb.com/deploy?type=git&repository=github.com/GwitcherG/Gangster-Baby-Renamer-BOT&branch=main&name=lazy-gangster-baby" >
   <img src="https://www.koyeb.com/static/images/deploy/button.svg" alt="Deploy">
 </a>
 </p>
@@ -40,7 +40,7 @@
 <details><summary>Deploy To Heroku</summary>
 <p>
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/LazyDeveloperr/Gangster-Baby-Renamer-BOT">
+<a href="https://heroku.com/deploy?template=https://github.com/GwitcherG/Gangster-Baby-Renamer-BOT">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p>
@@ -81,18 +81,19 @@
 
 
 ### 🔗 important_Links
-- [🤩 Create Auto Filter BOT](https://www.youtube.com/watch?v=jw3e4L1u-Vo&t=22s)
-- [🤩 Create Movie Website](https://www.youtube.com/watch?v=h3Uvr15ZPnc)
-- [🤩 Create Movie Request BOT](https://www.youtube.com/watch?v=mIEv7MjLj2U&t=38s)
-- [❣️ Join Youtube](https://www.youtube.com/channel/UCY-iDra0x2hdd9PdHKcZkRw)
+- [🤩 umz filter bot](https://t.me/umzfilter_bot)
+- [🤩 umz filter bot 2](https://t.me/umzfilter2_bot)
+- [🤩 umz rename bot]([https://t.me/umzfilter2_bot](https://t.me/umzrename_bot))
+- [🤩 Movie Group](https://t.me/Unlimited_Movie_Zone)
+- [❣️ Join Youtube](https://www.youtube.com/channel/UCSYKGgS2RCn_2Kp9u6zJy2g)
 
 
 #### 🧡 Respecting... 🧡
-- [🔥 LazyDeveloperr](https://github.com/LazyDeveloperr) 
+- [🔥 Witcher](https://t.me/GwitcherG) 
 - [🔥 Pyrogram](https://github.com/pyrogram/pyrogram)
 
 ### ❤️ Thanking 😘
-- 🤩 Thank You [Team-Pyro](https://github.com/TEAM-PYRO-BOTZ) For this awesome src 😘
+- 🤩 Thank You [LazyDeveloperr](https://github.com/LazyDeveloperr) For this awesome src 😘
 
 ### 🤩 INSPIRATION
 <a href="#">
