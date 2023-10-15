@@ -37,7 +37,7 @@ class mr(object):
 ╭───────────⍟
 ├🤖 The Name is : {}
 ├👑 ADMIN-TG : <a href=https://t.me/GwitcherG>Witcher</a> 
-├👑 Instagram : <https://www.instagram.com/chamindugayanuka>C-Insta</a> 
+├👑 Instagram : <https://www.instagram.com/chamindugayanuka/>Instagram</a> 
 ├📕 LIBRARY : <a href=https://github.com/pyrogram>Pyrogram</a>
 ├✏️ LANGUAGE : <a href=https://www.python.org>Python 3</a>
 ├💾 DATABASE : <a href=https://cloud.mongodb.com>MongoDB</a>
