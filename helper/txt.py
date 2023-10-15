@@ -18,9 +18,9 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-Telegram Link : https://t.me/LazyDeveloper 
-Repo Link : https://github.com/LazyDeveloperr/Gangster-Baby-Renamer-BOT
-License Link : https://github.com/LazyDeveloperr/Gangster-Baby-Renamer-BOT/blob/main/LICENSE
+Telegram Link : https://t.me/GwitcherG 
+Repo Link : https://github.com/GwitcherG/Gangster-Baby-Renamer-BOT
+License Link : https://github.com/GwitcherG/Gangster-Baby-Renamer-BOT/blob/main/LICENSE
 """
 
 
@@ -73,9 +73,8 @@ Example:- /set_caption 📕 File Name: {filename}
 
 » 𝗛𝗢𝗪 𝗧𝗢 𝗗𝗘𝗣𝗟𝗢𝗬 : <a href=https://www.youtube.com/channel/UCY-iDra0x2hdd9PdHKcZkRw>Watch Tutorial</a>
 
-• 😈 <a href=https://github.com/LazyDeveloperr>LazyDeveloper Github</a>
-• 😈 <a href=https://t.me/LazyDeveloper>LazyDeveloper Tg Channel</a>
+• 😈 <a href=https://github.com/GwitcherG>Developer Github</a>
 • 😈 <a href=https://t.me/GwitcherG>Direct-Msg-TG</a>
 • 😈 <a href=https://t.me/Unlimited_Movie_Zone>Join Unlimited_Movie_Zone</a>
-• 😈 <a href=https://t.me/GitHub_noob>Thanks- Github Noob</a>
+• 😈 <a href=https://t.me/LazyDeveloperr>Thanks- LazyDeveloperr</a>
 """
