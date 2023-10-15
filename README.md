@@ -83,7 +83,7 @@
 ### 🔗 important_Links
 - [🤩 umz filter bot](https://t.me/umzfilter_bot)
 - [🤩 umz filter bot 2](https://t.me/umzfilter2_bot)
-- [🤩 umz rename bot]([https://t.me/umzfilter2_bot](https://t.me/umzrename_bot))
+- [🤩 umz rename bot](https://t.me/umzrename_bot)
 - [🤩 Movie Group](https://t.me/Unlimited_Movie_Zone)
 - [❣️ Join Youtube](https://www.youtube.com/channel/UCSYKGgS2RCn_2Kp9u6zJy2g)
 
