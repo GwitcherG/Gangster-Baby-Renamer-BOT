@@ -16,9 +16,9 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-Telegram Link : https://t.me/LazyDeveloper 
-Repo Link : https://github.com/LazyDeveloperr/Gangster-Baby-Renamer-BOT
-License Link : https://github.com/LazyDeveloperr/Gangster-Baby-Renamer-BOT/blob/main/LICENSE
+Telegram Link : https://t.me/GwitcherG 
+Repo Link : https://github.com/GwitcherG/Gangster-Baby-Renamer-BOT
+License Link : https://github.com/GwitcherG/Gangster-Baby-Renamer-BOT/blob/main/LICENSE
 """
 
 from pyrogram import Client, filters
