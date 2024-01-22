@@ -1,9 +1,9 @@
-aiofiles
+aiofiles==22.1.0
 Pillow
 humanize
 hachoir
 motor
-pyrogram==2.0.160
-TgCrypto
+pyrogram==2.0.106
+TgCrypto==1.2.5
 dnspython
-aiohttp
+aiohttp==3.8.3
